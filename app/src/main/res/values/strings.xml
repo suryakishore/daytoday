@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DayToday</string>
+    <string name="wikiPidiaData">wiki pedia search results</string>
+    <string name="search">Please Enter something to get results</string>
+    <string name="title">title :</string>
+    <string name="contentmodel">contentmodel :</string>
+    <string name="index">index :</string>
+    <string name="pageid">pageid :</string>
+    <string name="wiki">wiki :</string>
+
+</resources>
